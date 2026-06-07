@@ -129,11 +129,6 @@ StatutCandidatureMis — fired when a recruiter updates an application status. L
 
 ---
 
-## 📁 Postman Collection
-
-A complete Postman collection is available in the postman/ folder covering all endpoints including error cases (401, 403, 422).
-
----
 
 ## 👩‍💻 Author
 
